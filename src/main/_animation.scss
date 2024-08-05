@@ -1,0 +1,82 @@
+.slide-both-side {
+  -webkit-animation: slide-both-side 4s infinite both;
+  animation: slide-both-side 4s infinite both;
+}
+
+@keyframes slide-both-side {
+  from {
+    -webkit-transform: translateY(-5px);
+    transform: translateY(-5px);
+    -moz-transform: translateY(-5px);
+    -ms-transform: translateY(-5px);
+    -o-transform: translateY(-5px);
+}
+
+  50% {
+    -webkit-transform: translateY(5px);
+    transform: translateY(5px);
+  }
+
+  to {
+    -webkit-transform: translateY(-5px);
+    transform: translateY(-5px);
+  }
+}
+
+@keyframes slide-left-right {
+  from {
+    -webkit-transform: translateX(-10px);
+    transform: translateX(-10px);
+    -moz-transform: translateX(-10px);
+    -ms-transform: translateX(-10px);
+    -o-transform: translateX(-10px);
+}
+
+  50% {
+    -webkit-transform: translateX(20px);
+    transform: translateX(20px);
+  }
+
+  to {
+    -webkit-transform: translateX(-10px);
+    transform: translateX(-10px);
+  }
+}
+
+.slideTop {
+  -webkit-animation: slideTop 4s infinite both;
+  animation: slideTop 4s infinite both;
+}
+@keyframes slideTop {
+  from {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+@keyframes slideLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-20px);
+    -webkit-transform: translateX(-20px);
+    -moz-transform: translateX(-20px);
+    -ms-transform: translateX(-20px);
+    -o-transform: translateX(-20px);
+}
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+// react tooltip
+.__react_component_tooltip {
+  border-radius: 3px !important;
+  display: inline-flex !important;
+  padding: 1px 8px !important;
+  text-transform: capitalize !important;
+  font-weight: 400 !important;
+}
