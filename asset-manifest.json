@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portofolio/static/css/main.de63d17d.css",
+    "main.js": "/portofolio/static/js/main.cdd02cec.js",
+    "static/media/work8.jpg": "/portofolio/static/media/work8.9eb37772ae5580a69104.jpg",
+    "static/media/work9.jpg": "/portofolio/static/media/work9.3a7fa49c6b57236f2259.jpg",
+    "static/media/work1.png": "/portofolio/static/media/work1.0ce8b144a88376774efc.png",
+    "static/media/work2.png": "/portofolio/static/media/work2.6a026b943fa478b07b47.png",
+    "static/media/work3.jpg": "/portofolio/static/media/work3.befb66e6c7dba25b386d.jpg",
+    "static/media/work7.jpg": "/portofolio/static/media/work7.dabb4fb53af585a1ad66.jpg",
+    "static/media/Programming-amico.png": "/portofolio/static/media/Programming-amico.dbf7455842b57e515a31.png",
+    "static/media/Screenshot_29-3-2024_15328_www.instagram.com.jpeg": "/portofolio/static/media/Screenshot_29-3-2024_15328_www.instagram.com.058375b308986b464ba7.jpeg",
+    "static/media/work6.jpg": "/portofolio/static/media/work6.12c103e31d493615872f.jpg",
+    "static/media/work4.jpg": "/portofolio/static/media/work4.4c5961283a8d7c6978d6.jpg",
+    "static/media/Programming-rafiki.png": "/portofolio/static/media/Programming-rafiki.cf0cbcc25753fc1b719b.png",
+    "static/media/work5.jpg": "/portofolio/static/media/work5.0a236d7447703d768907.jpg",
+    "static/media/logo.jpg": "/portofolio/static/media/logo.f935d782c12e59e50a92.jpg",
+    "static/media/et-line.svg": "/portofolio/static/media/et-line.613c7311d2d5a1dd7e49.svg",
+    "static/media/et-line.woff": "/portofolio/static/media/et-line.d59b23856f66f9876c47.woff",
+    "static/media/et-line.eot": "/portofolio/static/media/et-line.3f5eecf9f3326c4d6d81.eot",
+    "static/media/about-me-2.jpg": "/portofolio/static/media/about-me-2.5b638a98d36609961641.jpg",
+    "static/media/et-line.ttf": "/portofolio/static/media/et-line.cc7129c849c81d254698.ttf",
+    "static/media/profile.png": "/portofolio/static/media/profile.439687d098446d99d76a.png",
+    "static/media/slick.svg": "/portofolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/portofolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/portofolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/portofolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/portofolio/index.html",
+    "main.de63d17d.css.map": "/portofolio/static/css/main.de63d17d.css.map",
+    "main.cdd02cec.js.map": "/portofolio/static/js/main.cdd02cec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de63d17d.css",
+    "static/js/main.cdd02cec.js"
+  ]
+}
